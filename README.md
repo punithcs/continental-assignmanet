@@ -10,7 +10,10 @@ Tablur information with all feature like Filtering, Sorting and error Hanlder.
 
 ## Usage
 
-````npm start```
+```
+npm start
+
+```
 
 
 ## License

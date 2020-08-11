@@ -14,7 +14,3 @@ Tablur information with all feature like Filtering, Sorting and error Hanlder.
 npm start
 
 ```
-
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
